@@ -1,2 +1,3 @@
 # Learning-how-to-use-githup-
-Test 
+Testing how to create and manage repo in GitHup Hosting service 
+
